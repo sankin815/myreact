@@ -1,0 +1,3 @@
+echo "eslint is working ~"
+
+npm exec lint-staged
